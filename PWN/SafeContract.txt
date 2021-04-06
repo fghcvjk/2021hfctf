@@ -1,0 +1,9 @@
+What is in the contract
+
+合约地址：
+
+0x8C34E8c05846be833Faa82EbdcE48F2c3288dd38@ropsten
+
+make safe be true
+
+input address at http://8.140.187.205:6584/

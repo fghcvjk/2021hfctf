@@ -1,0 +1,5 @@
+Please give me 6 pairs of positive integers (x,y,z) satisfying the equation `x/(y+z) + y/(z+x) + z/(x+y) = 6`
+
+附件下载 提取码（GAME）备用下载
+
+nc 8.140.152.226 27359
